@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ali.hejazzii/)](https://www.instagram.com/c_na_li)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sina.talebi@mail.utoronto.ca)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://sinaatalebi.wixsite.com/resume)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/Cnali)
+[![Github](https://img.shields.io/github/followers/Cnali?label=Follow&style=social)](https://github.com/Cnali)
 [![Scholar](https://img.shields.io/badge/-Google_Scholar?logo=google_scholar&logoColor=yellow&label=Google%20sholar&labelColor=blue&color=white&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3D5BMluJMAAAAJ%26hl%3Den%26oi%3Dao
 )](https://scholar.google.com/citations?user=5BMluJMAAAAJ&hl=en&oi=ao)
 

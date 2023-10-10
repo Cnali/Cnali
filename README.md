@@ -1,4 +1,4 @@
-# Ali Hejazizo
+# Sina  Talebi
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/hejazizo)](https://twitter.com/hejazizo)
@@ -8,9 +8,9 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
 
-- 💻 Owner of [**PyTopia**](https://github.com/pytopia). Check it out for daily Python and Machine Learning contents at [pytopia.ai](pytopia.ai).
-- 🌱 I teach Python, Machine Learning, Git, etc. Visit PyTopia website, [Pytopia.ai](https://www.pytopia.ai), and also my [teaching material](https://github.com/pytopia).
-- 📫 How to reach me: hejazizo@ualberta.ca
+- 💻 Ph.D. Student at the University of Toronto.
+- 🌱 I love Python, Machine Learning, Git, etc. and sometimes teach them.
+- 📫 You can reach me by: sina.talebi@mail.utoronto.ca
 
 
 ### 🖥 Skills

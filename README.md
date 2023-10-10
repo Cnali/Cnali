@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sina.talebi@mail.utoronto.ca)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://sinaatalebi.wixsite.com/resume)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/Cnali)
-[![Scholar](https://img.shields.io/badge/GoogleScholar?style=flat-square&labelColor=4285F4&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=5BMluJMAAAAJ&hl=en&oi=ao)
+[![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=5BMluJMAAAAJ&hl=en&oi=ao)
 
 - 💻 Ph.D. Student at the University of Toronto.
 - 🌱 I love Python, Machine Learning, Git, etc. and sometimes teach them.
